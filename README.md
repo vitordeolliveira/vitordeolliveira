@@ -17,7 +17,7 @@ Tenho familiaridade com versionamento utilizando **Git/GitHub** e busco evoluir 
 ## 🛠️ Tecnologias
 
 - **Python**
-- **Flask **
+- **Flask**
 - **APIs REST**
 - **SQL | MySQL**
 - **Git | GitHub**
